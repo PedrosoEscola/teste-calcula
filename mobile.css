@@ -1,0 +1,28 @@
+@media (max-width: 425px){
+  html{
+    font-size: 90%;
+  }
+  button{
+    width: 6.4rem;
+  }
+  #keybord{
+    margin-top: 5rem;
+  }
+}
+
+@media (max-width: 385px){
+  button{
+    width: 5.4rem;
+    height: 5.4rem;
+  }
+  #keybord{
+    margin-top: 2rem;
+  }
+}
+
+@media (max-width: 335px){
+  button{
+    width: 5rem;
+    height: 5rem;
+  }
+}
